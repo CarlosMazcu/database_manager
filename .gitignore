@@ -1,0 +1,12 @@
+# files
+*.obj
+*.pdb
+
+*.exe
+*.ilk
+*.ini
+
+# folders
+/.vs
+/build
+/bin
